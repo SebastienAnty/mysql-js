@@ -1,0 +1,11 @@
+{
+  "name": "mysql-meet",
+  "version": "0.0.1",
+  "description": "feeling good like i should",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sebas Anty",
+  "license": "MIT"
+}
